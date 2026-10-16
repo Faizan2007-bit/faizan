@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout << "faizan hamza";
+    cout << "faizan";
     cout << "L1F26BSCS0841";
 
 
